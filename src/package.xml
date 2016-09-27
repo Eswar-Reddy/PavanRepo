@@ -12,6 +12,8 @@
         <members>Ac3</members>
         <members>AccP1</members>
         <members>AccP11</members>
+        <members>Apcls1</members>
+        <members>AppCls3</members>
         <name>ApexClass</name>
     </types>
     <types>
